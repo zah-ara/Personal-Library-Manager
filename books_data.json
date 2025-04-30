@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The lost life",
+        "author": "Zahara",
+        "year": "2025",
+        "genre": "Pschological thriller",
+        "read": true
+    },
+    {
+        "title": "Hannibal",
+        "author": "Hannibal lecter",
+        "year": "1964",
+        "genre": "thriller",
+        "read": true
+    }
+]
